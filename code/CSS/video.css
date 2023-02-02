@@ -216,6 +216,7 @@ a{
 .video > div > iframe{
 	position: relative;
 	width: 900px;
+	height: 505px;
 	left: 50%;
 	transform: translateX(-30%);
 }
