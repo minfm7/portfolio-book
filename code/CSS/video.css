@@ -199,19 +199,19 @@ a{
 .V-12 > hr{top: 100px;}
 
 /*video*/
-.V-1 > video{margin-top: -250px;}
-.V-2 > video{margin-top: -210px;}
-.V-3 > video{margin-top: -210px;}
-.V-4 > video{margin-top: -210px;}
-.V-5 > video{margin-top: -210px;}
-.V-6 > video{margin-top: -210px;}
-.V-7 > video{margin-top: -210px;}
-.V-8 > video{margin-top: -210px;}
-.V-9 > video{margin-top: -210px;}
-.V-10 > video{margin-top: -210px;}
-.V-11 > video{margin-top: -210px;}
-.V-12 > video{margin-top: -210px;}
-.V-13 > video{margin-top: -210px;}
+.V-1 > iframe{margin-top: -250px;}
+.V-2 > iframe{margin-top: -210px;}
+.V-3 > iframe{margin-top: -210px;}
+.V-4 > iframe{margin-top: -210px;}
+.V-5 > iframe{margin-top: -210px;}
+.V-6 > iframe{margin-top: -210px;}
+.V-7 > iframe{margin-top: -210px;}
+.V-8 > iframe{margin-top: -210px;}
+.V-9 > iframe{margin-top: -210px;}
+.V-10 > iframe{margin-top: -210px;}
+.V-11 > iframe{margin-top: -210px;}
+.V-12 > iframe{margin-top: -210px;}
+.V-13 > iframe{margin-top: -210px;}
 
 .video > div > video{
 	position: relative;
