@@ -213,7 +213,7 @@ a{
 .V-12 > iframe{margin-top: -210px;}
 .V-13 > iframe{margin-top: -210px;}
 
-.video > div > video{
+.video > div > iframe{
 	position: relative;
 	width: 900px;
 	left: 50%;
